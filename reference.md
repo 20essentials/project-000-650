@@ -1,0 +1,3 @@
+- **Reference / Inspiration ⬇️**
+  - [Online Tutorials Teacher Inspiration](https://youtu.be/pvbC5kLp7OQ?si=KlgWWAnuKwygwn0d)
+  - [Coraline Image Reference](https://medium.com/writers-blokke/redesigning-a-book-cover-96b09c82cb40)
