@@ -27,6 +27,9 @@ body {
   place-content: center;
   transform-style: preserve-3d;
   perspective: 900px;
+  background-image: url('assets/bg.jpeg');
+  background-size: cover;
+  background-color: #fff;
 }
 
 .book {
